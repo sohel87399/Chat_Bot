@@ -4,9 +4,10 @@ yfinance
 packaging
 duckduckgo-search
 fastapi
-uvicorn
+uvicorn[standard]
 groq
 openai
 python-multipart
 pdfplumber
 pypdf
+httpx
